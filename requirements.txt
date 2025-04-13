@@ -1,0 +1,7 @@
+streamlit==1.32.0
+llama-index-core
+llama-index-llms-groq
+python-dotenv==1.0.0
+requests==2.31.0
+pypdf==4.0.1
+# API-only dependencies (no tensor operations)
